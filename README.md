@@ -4,7 +4,7 @@
 # Usage
 ## Usage
 ```sh
-~$ git clone https://git.disroot.org/librewolf/grubProtect 
+~$ git clone https://github.com/vlafmeister/grubProtect.git
 
 ~$ cd grubProtect && chmod +x grubProtect.sh
 
