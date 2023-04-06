@@ -2,7 +2,6 @@
 #### This script allows users to protect grub boot loader from compromise and set a security layer on it.
 
 # Usage
-## Usage
 ```sh
 ~$ git clone https://github.com/vlafmeister/grubProtect.git
 
